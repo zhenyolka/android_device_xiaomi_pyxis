@@ -4,6 +4,9 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
+PRODUCT_BOARD_PLATFORM := sdm710
+PRODUCT_USES_QCOM_HARDWARE := true
+
 # Inherit from sdm710-common
 -include device/xiaomi/sdm710-common/BoardConfigCommon.mk
 
