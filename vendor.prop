@@ -17,6 +17,7 @@ vendor.display.enable_default_color_mode=1
 persist.vendor.sys.fp.fod.location.X_Y=445,1910
 persist.vendor.sys.fp.fod.size.width_height=190,190
 ro.hardware.fp.fod=true
+ro.fod.dimlayer.enable=true
 
 # Graphics
 ro.hardware.egl=adreno
